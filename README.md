@@ -1,9 +1,5 @@
 # 📧 Spam Detection Web App (Streamlit + ML)
 
-**One-line:** A Streamlit web app that classifies emails and SMS as **Spam** or **Not Spam** using a trained ML model and TF-IDF vectorization.
-
-A clean, production-ready README for your repository.
-
 ---
 
 ## ✅ Features
@@ -34,3 +30,5 @@ streamlit
 scikit-learn
 pandas
 nltk
+
+live - https://spamdetectionsystem-cxdhtnx72cgucabvgd5rg7.streamlit.app/
